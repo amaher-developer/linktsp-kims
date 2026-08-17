@@ -1,0 +1,11 @@
+{
+    "name": "Barista",
+    "alias": "barista",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Barista\\Providers\\BaristaServiceProvider"
+    ],
+    "files": []
+}

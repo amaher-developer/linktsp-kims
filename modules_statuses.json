@@ -1,0 +1,10 @@
+{
+    "Catalog": true,
+    "Ordering": true,
+    "Loyalty": true,
+    "Staff": true,
+    "Cashier": true,
+    "Barista": true,
+    "Admin": true,
+    "Integration": true
+}

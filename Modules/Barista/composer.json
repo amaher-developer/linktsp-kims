@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/barista",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Barista\\": "app/",
+            "Modules\\Barista\\Database\\Factories\\": "database/factories/",
+            "Modules\\Barista\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Barista\\Tests\\": "tests/"
+        }
+    }
+}
